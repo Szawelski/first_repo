@@ -1,3 +1,4 @@
 1. Pierwsze zajęcia z oprogramowaniem git.
 2. Pierwsza zmiana.
-3. Trzecia zmiana.
+3. Druga zmiana.
+4. Kolejna zmiana
