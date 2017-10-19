@@ -43,7 +43,7 @@
    43  git add test.txt 
    44  git status
    45* git commit -m "pierwsza modyfikack"
-   46  git config --global user.email "szawelski@gmail.com"
+   46  git config --global user.email "mojusunietyadresemail@gmail.com"
    47  git config --global user.name "Szawelski"
    48  git commit -m "utworzenie nowego pliku"
    49  git status
