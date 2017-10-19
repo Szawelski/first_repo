@@ -1,1 +1,2 @@
-Pierwsze zajęcia z oprogramowaniem git.
+1. Pierwsze zajęcia z oprogramowaniem git.
+2. Pierwsza zmiana.
