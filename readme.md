@@ -7,13 +7,19 @@
     7  rm -rf Pierwsze/
     8  rm -rf repozytorium/
     9  mkdir Pierwsze_repozytorium
-   10  dpkg ee
-   11  mkdir first_repo
-   12  cd first_repo/
-   13  ee
-   14  git ee
-   15  apt-get install ee
-   16  apt-get install git
+>   10  dpkg ee
+>   11  mkdir first_repo
+>   12  cd first_repo/
+>   13  ee
+>   14  git ee
+>   15  apt-get install ee
+>
+### Zabawa z GITem
+>
+Instalacja GIT
+--------------
+>
+>   16  apt-get install git
    17  mc\
    18  mc
    19  apt-get install mc
