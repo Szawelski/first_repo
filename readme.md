@@ -1,18 +1,33 @@
-    2  cd Pulpit/
-    9  mkdir Pierwsze_repozytorium
-	   11  mkdir first_repo
-	   12  cd first_repo/
->
-### Zabawa z GITem
->
-Instalacja GIT
---------------
->
->	   16  apt-get install git
-   18  mc
-   19  apt-get install mc
-   20  ls -al
-   21  cd ..
+		Podstawy programowania
+		=====================
+	
+	Pobranie instalacja i praca z Git
+	---------------------------------
+
+    Przejscie do katalogu Pulpit
+
+    1  cd Pulpit/
+
+    Utworzenie katalogu i przejscie do niego
+
+    2  mkdir first_repo
+    3  cd first_repo/
+
+    Pobranie i instalacja Git
+
+    4  apt-get install git
+
+    Pobranie i instalacja mc
+
+    5  apt-get install mc
+
+    Wyswietlenie zawartosci katalogu
+
+    6  ls -al
+  
+
+
+ 21  cd ..
    22  rm -rf Pierwsze_repozytorium/
    23  cd first_repo/
    24  git help
